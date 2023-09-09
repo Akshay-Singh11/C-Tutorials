@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "akshay": "c",
+        "stdio.h": "c",
+        "EligibleAge.C": "cpp",
+        "Fibonacci.C": "cpp",
+        "PerfectNo.C": "cpp",
+        "PowerUsingLoop.C": "cpp",
+        "AllASCII.C": "cpp"
+    }
+}
